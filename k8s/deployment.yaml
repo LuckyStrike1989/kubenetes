@@ -23,7 +23,7 @@ spec:
    spec:
      containers:
        - name: product-service
-         image: zerockcode1/product-service:main
+         image: luckystrike1989/product-service:main
          imagePullPolicy: Always
          ports:
            - containerPort: 8081
