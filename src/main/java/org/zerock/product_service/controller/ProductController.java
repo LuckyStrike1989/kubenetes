@@ -13,7 +13,8 @@ public class ProductController {
             "Hello",
             "Product",
             "Service",
-            "Updated"
+            "Updated",
+            "Updated 2"
         };
     }
     
