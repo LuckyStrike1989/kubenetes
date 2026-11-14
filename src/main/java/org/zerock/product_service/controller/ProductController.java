@@ -12,7 +12,8 @@ public class ProductController {
         return new String[]{
             "Hello",
             "Product",
-            "Service"
+            "Service",
+            "Updated"
         };
     }
     
