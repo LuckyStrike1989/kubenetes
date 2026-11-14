@@ -8,7 +8,7 @@ metadata:
 spec:
  project: default
  source:
-   repoURL: https://github.com/zerockcode1git/product-service.git
+   repoURL: https://github.com/LuckyStrike1989/product-service.git
    targetRevision: main
    path: k8s
  destination:
