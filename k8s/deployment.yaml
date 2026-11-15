@@ -23,7 +23,7 @@ spec:
    spec:
      containers:
        - name: product-service
-         image: luckystrike1989/product-service:sha-785d967
+         image: luckystrike1989/product-service:sha-640086c
          imagePullPolicy: Always
          ports:
            - containerPort: 8081
